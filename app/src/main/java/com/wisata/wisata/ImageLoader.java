@@ -1,7 +1,7 @@
 package com.wisata.wisata;
 
 /**
- * Created by Anggi on 1/31/2017.
+ * Created by syaiful9507 on 1/31/2017.
  */
 
 import android.app.Activity;
