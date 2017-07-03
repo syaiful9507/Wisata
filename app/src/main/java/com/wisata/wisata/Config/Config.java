@@ -1,7 +1,7 @@
 package com.wisata.wisata.Config;
 
 /**
- * Created by Anggi on 2/1/2017.
+ * Created by syaiful9507 on 2/1/2017.
  */
 
 public class
