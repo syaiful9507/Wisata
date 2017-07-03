@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_general_maps"
+            android:icon="@drawable/ic_general_maps24"
+            android:title="Wisata maps" />
+        <item
+            android:id="@+id/nav_current_location"
+            android:icon="@drawable/ic_current_location_24dp"
+            android:title="Your Location" />
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info_24dp"
+            android:title="Info" />
+    </group>
+
+</menu>

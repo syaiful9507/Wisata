@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wisata Sumenep</string>
+    <string name="title_activity_main_menu">Menu</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="title_activity_main_alam">Alam</string>
+    <string name="title_activity_main_kuliner">Kuliner</string>
+    <string name="title_activity_main_religi">Religi</string>
+    <string name="title_activity_currentlocation">Map</string>
+    <string name="title_activity_about">Info</string>
+</resources>
